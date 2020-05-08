@@ -3,3 +3,8 @@ img[src$=".jpg"]{
   height: 200px;
   border: solid 1px #000000;
 }
+img[src$=".JPG"]{
+  width: 200px;
+  height: 200px;
+  border: solid 1px #000000;
+}
